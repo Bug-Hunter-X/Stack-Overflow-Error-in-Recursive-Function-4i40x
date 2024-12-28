@@ -1,0 +1,2 @@
+# Stack Overflow Bug in JavaScript
+This repository demonstrates a common coding error in JavaScript: stack overflow errors caused by improper recursion.  The `bug.js` file contains a recursive function with an incomplete base case, leading to infinite recursion.  The `bugSolution.js` file provides a corrected version with a proper base case to avoid the error.
